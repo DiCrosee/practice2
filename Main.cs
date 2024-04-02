@@ -54,6 +54,7 @@ namespace practice2
                     case 4:
                         break;
                     case 5:
+                        StudentRemover.RemoveStudent(studentsList);
                         break;
                     case 0:
                         break;
