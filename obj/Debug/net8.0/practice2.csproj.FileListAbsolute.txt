@@ -1,0 +1,14 @@
+D:\Для учебы\практикахуяктика\practcie\practice2\bin\Debug\net8.0\practice2.exe
+D:\Для учебы\практикахуяктика\practcie\practice2\bin\Debug\net8.0\practice2.deps.json
+D:\Для учебы\практикахуяктика\practcie\practice2\bin\Debug\net8.0\practice2.runtimeconfig.json
+D:\Для учебы\практикахуяктика\practcie\practice2\bin\Debug\net8.0\practice2.dll
+D:\Для учебы\практикахуяктика\practcie\practice2\bin\Debug\net8.0\practice2.pdb
+D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\practice2.AssemblyInfoInputs.cache
+D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\practice2.AssemblyInfo.cs
+D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\practice2.csproj.CoreCompileInputs.cache
+D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\practice2.dll
+D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\refint\practice2.dll
+D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\practice2.pdb
+D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\practice2.genruntimeconfig.cache
+D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\ref\practice2.dll
