@@ -7,6 +7,7 @@ namespace practice2
     {
         static void Main(string[] args)
         {
+            List<addstudent> studentsList = new List<addstudent>();
 
             int menu = -1;
             while (menu != 0)
@@ -24,16 +25,30 @@ namespace practice2
                 switch (menu)
                 {
                     case 1:
+                        Console.WriteLine("\nИнформация об учениках:");
+                        foreach (var student in studentsList)
+                        {
+                            Console.WriteLine("----------------------------------------------------------");
+                            student.PrintInfo();
+                            Console.WriteLine("----------------------------------------------------------");
+                        }
                         break;
                     case 2:
+                        Console.WriteLine("Введите данные студента:");
+                        Console.Write("ФИО: ");
+                        string fullName = Console.ReadLine();
+                        Console.Write("Номер телефона: ");
+                        string phoneNumber = Console.ReadLine();
+                        Console.Write("Email: ");
+                        string email = Console.ReadLine();
+                        Console.Write("Паспорт: ");
+                        string passport = Console.ReadLine();
+                        Console.Write("Год рождения: ");
+                        int birthYear = int.Parse(Console.ReadLine());
+                        addstudent newStudent = new addstudent(fullName, phoneNumber, email, passport, birthYear);
+                        studentsList.Add(newStudent);
                         break;
-                    case 3:
-                        StudentEditor.EditStudent(studentsList);
-                        break;
-                    case 4:
-                        break;
-                    case 5:
-                        break;
+                    
                     case 0:
                         break;
                 }
