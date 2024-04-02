@@ -55,6 +55,7 @@ namespace practice2
                         StudentFinder.FindStudent(studentsList);
                         break;
                     case 5:
+                        StudentRemover.RemoveStudent(studentsList);
                         break;
                     case 0:
                         break;
