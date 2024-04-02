@@ -48,7 +48,13 @@ namespace practice2
                         addstudent newStudent = new addstudent(fullName, phoneNumber, email, passport, birthYear);
                         studentsList.Add(newStudent);
                         break;
-                    
+                    case 3:
+                        StudentEditor.EditStudent(studentsList);
+                        break;
+                    case 4:
+                        break;
+                    case 5:
+                        break;
                     case 0:
                         break;
                 }
