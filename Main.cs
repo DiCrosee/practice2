@@ -52,6 +52,7 @@ namespace practice2
                         StudentEditor.EditStudent(studentsList);
                         break;
                     case 4:
+                        StudentFinder.FindStudent(studentsList);
                         break;
                     case 5:
                         break;
