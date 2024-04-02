@@ -12,3 +12,4 @@ D:\Для учебы\практикахуяктика\practcie\practice2\obj\Deb
 D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\practice2.pdb
 D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\practice2.genruntimeconfig.cache
 D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\ref\practice2.dll
+D:\Для учебы\практикахуяктика\practcie\practice2\obj\Debug\net8.0\practice2.sourcelink.json
